@@ -14,6 +14,7 @@ Here you’ll find my coursework projects (DB design, C# apps) and personal expe
   Tech Stack
 
    Languages
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -41,7 +42,6 @@ Here you’ll find my coursework projects (DB design, C# apps) and personal expe
 - **HairdresserProject** — C# desktop app  
 - **VeritabanProjesi** — C# + Database  
 
-> ✨ عدّلي أسماء المشاريع وروابطها حسب الريبو عندك.
 
 ---
 
