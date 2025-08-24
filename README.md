@@ -1,4 +1,6 @@
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=800&center=true&vCenter=true&repeat=true&width=1000&background=00000000&color=FFC0CB&lines=AI+%7C+Databases+%7C+.NET+Desktop;C%23+•+C%2B%2B+•+Java+•+Python+•+JavaScript+•+SQL)
+<p align="center">
+  <img src="assets/httpLubana_languages_banner.gif" alt="httpLubana — animated banner" width="100%"/>
+</p>
 
 <!-- Animated typing header — light pink -->
 <p align="center">
