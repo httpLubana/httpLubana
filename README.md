@@ -1,7 +1,4 @@
 <!-- Animated typing header — light pink -->
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=800&center=true&vCenter=true&repeat=true&width=1000&background=00000000&color=FFC0CB&lines=AI+%7C+Databases+%7C+.NET+Desktop;C%23+•+C%2B%2B+•+Java+•+Python+•+JavaScript+•+SQL)
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=800&center=true&vCenter=true&repeat=true&width=1000&background=00000000&color=FFC0CB&lines=AI+%7C+Databases+%7C+.NET+Desktop;C%23+•+C%2B%2B+•+Java+•+Python+•+JavaScript+•+SQL" alt="typing animation"/>
 </p>
@@ -23,39 +20,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="42" alt="Visual Studio" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
 </p>
-
----
-
-## ✨ About
-Computer Engineering student @ **Sakarya University**.  
-I enjoy building **clean, practical software** and exploring **AI**.  
-Here you’ll find coursework projects (DB design, C# apps) and personal experiments.
-
----
-
-## 🧰 Tech Stack
-**Languages:** C#, C, C++, Java, Python, JavaScript, SQL  
-**Frameworks & Tools:** .NET, Git & GitHub, Visual Studio, VS Code  
-**Databases:** MySQL, SQL Server
-
----
-
-## 📌 Featured Projects
-- **HairdresserProject** — C#, .NET desktop app  
-- **VeritabanProjesi** — C#, SQL Server CRUD + reports  
-- **DB Interface Design** — C#, SQL (forms, CRUD, search) — _Add link_  
-- **DB-Design (C Interface)** — C, SQL (CLI) — _Add link_
-
-> بدّلي أسماء/روابط المشاريع حسب الريبوّات الفعلية عندك.
-
----
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpLubana&show_icons=true&theme=rose_pine" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpLubana&layout=compact&theme=rose_pine" height="150" />
-</p>
-
----
-
-<p align="center"><i>“Building smart & creative things with code.”</i> 🌸</p>
