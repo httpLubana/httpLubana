@@ -1,14 +1,11 @@
 ## Hi there 👋
+httpLub# 🌸 Hi, I'm Lubana — @httpLubana 👩‍💻
 
-<!--
-**httpLub# 🌸 Hi, I'm Lubana — @httpLubana 👩‍💻
-
-**Computer Engineering Student @ Sakarya University**  
+Computer Engineering Student @ Sakarya University**  
 🤖 AI Enthusiast · 🗄️ Databases · 🖥️ Desktop / Web
 
 ---
-
-## ✨ About
+ ✨ About
 I enjoy building clean, practical software and exploring AI.  
 Here you’ll find my coursework projects (DB design, C# apps) and personal experiments.
 
