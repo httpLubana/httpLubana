@@ -1,8 +1,8 @@
-## Hi there 👋
-httpLub# 🌸 Hi, I'm Lubana — @httpLubana 👩‍💻
+  Hi there 👋
+Hi, I'm Lubana — @httpLubana 👩‍💻
 
 Computer Engineering Student @ Sakarya University**  
-🤖 AI Enthusiast · 🗄️ Databases · 🖥️ Desktop / Web
+  AI Enthusiast ·  Databases ·  Desktop / Web
 
 ---
  ✨ About
@@ -11,9 +11,9 @@ Here you’ll find my coursework projects (DB design, C# apps) and personal expe
 
 ---
 
-## 🧰 Tech Stack
+  Tech Stack
 
-### 🚀 Languages
+   Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -102,15 +102,7 @@ Here you’ll find my coursework projects (DB design, C# apps) and personal expe
 
 ---
 
-## 📌 Projects
-- **Database Interface Design** — C# + DB UI  
-- **Database-Design Project (C Interface)** — C / SQL  
-- **HairdresserProject** — C# desktop app  
-- **VeritabanProjesi** — C# + Database  
 
-> ✨ عدّلي أسماء المشاريع وروابطها حسب الريبو عندك.
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpLubana&show_icons=true&theme=rose_pine)  
