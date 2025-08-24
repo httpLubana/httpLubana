@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff2e7a,100:a86bff&text=httpLubana&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Computer%20Engineering%20@%20Sakarya%20•%20AI%20Enthusiast&descAlignY=60)
 
 <!-- Typing line -->
@@ -53,4 +53,6 @@ Here you’ll find my coursework projects (DB design, C# apps) and personal expe
 
 ---
 
-##
+## 📌 Featured Projects (Pinned)
+<p align="center">
+  <a href="https://github.com/httpLubana/Hairdre
